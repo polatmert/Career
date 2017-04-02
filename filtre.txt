@@ -1,0 +1,150 @@
+
+_-_-_-_-_YENI KISI_-_-_-_-_
+ali
+kaya
+istanbul
+5321234567
+akaya@gmail.com
+1985
+**OKUL BILGILERI**
+______________________________
+galatasaray
+lise
+elektronik haber muh
+sayisal
+1999
+2003
+82.000000
+
+______________________________
+yildiz teknik universitesi
+lisans
+elektronik haber muh
+bilgisayar muh
+2004
+2009
+80.000000
+
+______________________________
+yildiz teknik universitesi
+yuksek lisans
+elektronik haber muh
+bilgisayar muh
+2010
+2013
+95.000000
+
+______________________________
+bogazici universitesi
+doktora
+elektronik haber muh
+bilgisayar muh
+2013
+Mezuniyet durumu: Devam ediyor
+Not ortalamasi: e
+
+***IS BILGILERI**
+______________________________
+burger king
+istanbul
+vardiya muduru
+2.000000
+______________________________
+armada bilgisayar
+istanbul
+yazilim uzmani
+1.000000
+______________________________
+comodo yazilim as
+ankara
+front end developer
+0.500000
+______________________________
+destek group
+istanbul ankara
+bilgisayar muh
+2.000000
+______________________________
+otokar
+kocaeli
+network ve guvenlik muhendisi
+1.500000
+______________________________
+vodafone
+istanbul
+mediation solutions senior specialist
+1.500000
+
+**YABANCI DIL BILGILERI**
+____________________________
+ingilizce
+
+____________________________
+fransizca
+
+_-_-_-_-_YENI KISI_-_-_-_-_
+ahmet
+sari
+manisa
+5071234567
+asari@gmail.com
+1989
+**OKUL BILGILERI**
+______________________________
+manisa lisesi
+lise
+elektronik haber muh
+sayisal
+2003
+2006
+70.000000
+
+______________________________
+yalvac myo
+yuksek okul
+elektronik haber muh
+bilgisayar programciligi
+2006
+2008
+95.000000
+
+______________________________
+selcuk universitesi lisans
+lisans
+elektronik haber muh
+matematik bilgisayar
+2009
+2012
+90.000000
+
+______________________________
+gazi universitesi
+yuksek lisans
+elektronik haber muh
+bilgisayar muh
+2012
+2015
+92.000000
+
+
+***IS BILGILERI**
+______________________________
+ag software
+konya
+programci
+2.000000
+______________________________
+randstad professionals
+ankara
+firmware engineer
+2.000000
+
+**YABANCI DIL BILGILERI**
+____________________________
+arapca
+
+____________________________
+ingilizce
+
+____________________________
+almanca

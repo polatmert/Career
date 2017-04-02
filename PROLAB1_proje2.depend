@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1451788493 source:c:\users\emre\desktop\prolab1_proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1451873974 source:i:\prolab1_proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
